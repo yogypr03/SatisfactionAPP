@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-  title = 'Canteen Satisfaction Survey';
+  title = 'Canteen Satisfaction';
   users: any;
 
 
